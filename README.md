@@ -1,2 +1,2 @@
-# SimpleGenerator
+# IdealWatch
 ![alt text](preview.jpg)
