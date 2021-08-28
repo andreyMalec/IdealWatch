@@ -1,2 +1,3 @@
 rootProject.name = "IdealWatch"
-include ':app'
+include ':wear'
+include ':mobile'
